@@ -8,7 +8,11 @@ public class carlyseventprice{
       int LARGE_EVENT = 50;
       
       Scanner scanner = new Scanner(System.in);
-   
+      
+      System.out.println("**************************************");
+      System.out.println(" * Carly's makes the food that makes *");
+      System.out.println(" *            ita party.             *");
+      System.out.println("**************************************");
       System.out.println("Welcome to Carly's Catering Enjoy the special occasion! Thank you ");
       
       System.out.print("Enter the number of guest: ");
