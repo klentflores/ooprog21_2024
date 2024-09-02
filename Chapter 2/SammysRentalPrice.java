@@ -8,7 +8,9 @@ public class sammyseashoresupplies{
    int COST_PER_MINUTE = 1;
    
    Scanner scanner = new Scanner(System.in);
-   
+   System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
+   System.out.println("S Sammy's makes it fun in the sun. S");
+   System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
    System.out.println("Welcome to Sammy's Seashore Supplies: Your fun in the sun starts here! ");
    
    System.out.print("Enter the number of minutes rented a piece of sports equipment: ");
